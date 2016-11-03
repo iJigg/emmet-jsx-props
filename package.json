@@ -1,0 +1,19 @@
+{
+  "name": "emmet-jsx-props",
+  "main": "./lib/emmet-jsx-props",
+  "version": "1.0.0",
+  "description": "Atom package to extend Emmet's JSX expansions to convert string props to js props",
+  "keywords": [
+    "emmet",
+    "jsx",
+    "react",
+    "props"
+  ],
+  "repository": "https://github.com/iJigg/emmet-jsx-props",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
